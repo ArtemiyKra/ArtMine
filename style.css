@@ -1,0 +1,83 @@
+body {
+    background:url(../Img/background.jpg);
+}
+.all {
+    background:#202020;
+    margin:0px 30px;
+    padding:10px;
+    opacity:0.9;
+}
+.ref {
+    text-decoration:none;
+    margin:8px;
+    color:#FFFFFF;
+}
+.Name {
+    margin:20px;
+    font-family:monospace;
+    font-weight:bold;
+}
+.TableBlocks {
+    width:500px;
+}
+.imgid1 {
+    float:right;
+}
+.block1 {
+    border-radius:10px;
+    background:green;
+    width:250px;
+    height:380px;
+    padding:25px;
+    display:block;
+    text-decoration:none;
+}
+.block2 {
+    border-radius:10px;
+    background:orange;
+    width:250px;
+    height:380px;
+    padding:25px;
+    display:block;
+    float:right;
+    color:#000000;
+    text-decoration:none;
+}
+#block1href {
+    text-decoration:none;
+    color:black;
+}
+p {
+    color:#FFFFFF;
+}
+.BlocksBlack {
+    color:#FFFFFF;
+    background:#000000;
+    text-decoration:none;
+}
+.BlocksGreen {
+    color:#000000;
+    background:#00FF00;
+    text-decoration:none;
+}
+.BlocksBlue {
+    color:#000000;
+    background:#0000FF;
+    text-decoration:none;
+}
+.BlocksRed {
+    color:#FFFFFF;
+    background:#FF0000;
+    text-decoration:none;
+}
+.BB {
+    color:#FFFFFF;
+}
+.menu {
+    float:right;
+}
+.ref:hover {
+    text-decoration:none;
+    margin:8px;
+    color:#00FF00;
+}
